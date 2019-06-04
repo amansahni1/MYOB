@@ -18,8 +18,17 @@ http://localhost:8080/myapp/version
 
 http://localhost:8080/actuator/info
 
+# Testing/Deployment Instructions
 
+1.	Import the boot project (mobile-app-ws) into eclypse and run the apring boot app to deploy into tomcat.
 
+2.	Hit the APIs created using curl or browser
+
+OR
+
+1.	Deploy the provided JAR into tomcat.
+
+2.	Hit the APIs created using curl or browser
 
 
 
