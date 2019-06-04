@@ -11,8 +11,14 @@ NOTE: Currently only negative ie 'DOWN' scenario is configured.
 
 ### API Info URLs:
 http://localhost:8080/myapp/name
+
 http://localhost:8080/myapp/description
+
 http://localhost:8080/myapp/version
+
+http://localhost:8080/actuator/info
+
+
 
 
 
